@@ -1,0 +1,50 @@
+1️⃣ ALLURE LABELS (@smoke, @sanity, @regression)
+
+Why labels are used
+
+Filter tests in Allure UI
+
+Categorize tests like manual test suites
+
+Works in addition to Playwright --grep
+
+Why labels are used
+
+Filter tests in Allure UI
+
+Categorize tests like manual test suites
+
+Works in addition to Playwright --grep
+
+Allure deprecated the below struture.
+import { allure } from 'allure-playwright';
+
+allure.label('suite', 'Home');
+allure.severity('critical');
+
+NEW WAY (Playwright-native, recommended)
+
+Use:
+
+test.step() for steps
+
+test.info() for labels, severity, environment, attachments
+
+👉 This aligns Allure directly with Playwright’s test lifecycle.
+
+------------------------------------------------------
+we need to use test.info().annotations 
+Example: Labels + Severity (NEW WAY)
+
+
+-------------------------allure labels setup:
+
+Create Environment File (AUTOMATIC): under Create Environment File (AUTOMATIC)
+Call It Once (globalSetup)
+In globalSetup.js: 
+import { writeAllureEnv } from './helpers/allure-env.js';
+
+export default async () => {
+  writeAllureEnv();}
+
+

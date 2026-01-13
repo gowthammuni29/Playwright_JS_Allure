@@ -1,0 +1,5 @@
+STEP 1: Install Logger Dependency : npm install winston
+STEP 2: Create Logs Folder: in project root : logs Folder
+STEP 3: Create Logger File: path in helpers/logger.js -- code written in logger.js file.
+Step 4: import logger in BasePage. import logger from '../helpers/logger.js';
+

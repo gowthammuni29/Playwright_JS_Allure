@@ -1,0 +1,1 @@
+[{"uid":"d80f71f1665a517","name":"TC_HOMEPAGE_002 - select device","time":{"start":1766047455953,"stop":1766047466039,"duration":10086},"status":"passed","severity":"normal"},{"uid":"949530b8a72b36be","name":"TC_HOMEPAGE_001 - select Categories tab","time":{"start":1766047448586,"stop":1766047455197,"duration":6611},"status":"passed","severity":"normal"}]

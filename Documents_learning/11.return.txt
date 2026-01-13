@@ -1,0 +1,36 @@
+return;
+👉 Immediately stops the function
+👉 Control goes back to the caller
+👉 No further code in that function runs
+
+
+WHEN YOU SHOULD USE return:
+Case 1: Early exit (very common & recommended) example:
+if (!(await nextBtn.isEnabled())) {
+  return;
+}
+
+Case 2: Stop loops immediately 
+for (...) {
+  if (success) {
+    return;
+  }
+}
+
+Case 3: Return data to caller
+async getProductName() {
+  return await this.product.textContent();
+}
+
+WHERE return SHOULD BE USED (Best Practices)
+✔ Inside reusable helpers
+
+BasePage methods
+
+Utility functions
+
+Search / pagination helpers
+
+✔ Inside page object methods
+
+When flow must stop after success

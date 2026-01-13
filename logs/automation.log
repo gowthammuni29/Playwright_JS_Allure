@@ -1,0 +1,400 @@
+[2025-12-18 14:37:20] INFO : Logger setup successful
+[2025-12-18 14:37:20] ERROR : Sample error log
+[2025-12-18 19:04:44] INFO : BasePage Initialized
+[2025-12-18 19:04:44] INFO : BasePage Initialized
+[2025-12-18 19:04:44] INFO : BasePage Initialized
+[2025-12-18 19:04:44] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:08:10] INFO : BasePage Initialized
+[2025-12-18 19:08:10] INFO : BasePage Initialized
+[2025-12-18 19:08:10] INFO : BasePage Initialized
+[2025-12-18 19:08:10] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:08:11] INFO : SELECT : Log in 
+[2025-12-18 19:10:35] INFO : BasePage Initialized
+[2025-12-18 19:10:35] INFO : BasePage Initialized
+[2025-12-18 19:10:35] INFO : BasePage Initialized
+[2025-12-18 19:10:35] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:10:36] INFO : SELECT : Log in 
+[2025-12-18 19:10:36] INFO : Selected Name: Log in
+[2025-12-18 19:10:36] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:10:37] INFO : SUCCESS: Fill Input
+[2025-12-18 19:10:37] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:10:37] INFO : SUCCESS: Fill Input
+[2025-12-18 19:10:37] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:11:29] INFO : BasePage Initialized
+[2025-12-18 19:11:29] INFO : BasePage Initialized
+[2025-12-18 19:11:29] INFO : BasePage Initialized
+[2025-12-18 19:11:29] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:11:53] INFO : BasePage Initialized
+[2025-12-18 19:11:53] INFO : BasePage Initialized
+[2025-12-18 19:11:53] INFO : BasePage Initialized
+[2025-12-18 19:11:53] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:11:54] INFO : SELECT : Log in 
+[2025-12-18 19:11:54] INFO : Selected Name: Log in
+[2025-12-18 19:11:54] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:11:54] INFO : SUCCESS: Fill Input
+[2025-12-18 19:11:54] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:11:54] INFO : SUCCESS: Fill Input
+[2025-12-18 19:11:54] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:17:17] INFO : BasePage Initialized
+[2025-12-18 19:17:17] INFO : BasePage Initialized
+[2025-12-18 19:17:17] INFO : BasePage Initialized
+[2025-12-18 19:17:17] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:17:18] INFO : SELECT : Log in 
+[2025-12-18 19:17:18] INFO : Selected Name: Log in
+[2025-12-18 19:17:18] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:17:18] INFO : SUCCESS: Fill Input
+[2025-12-18 19:17:18] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:17:18] INFO : SUCCESS: Fill Input
+[2025-12-18 19:17:18] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:19:07] INFO : BasePage Initialized
+[2025-12-18 19:19:07] INFO : BasePage Initialized
+[2025-12-18 19:19:07] INFO : BasePage Initialized
+[2025-12-18 19:19:07] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:19:08] INFO : SELECT : Log in 
+[2025-12-18 19:19:08] INFO : Selected Name: Log in
+[2025-12-18 19:19:08] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:19:09] INFO : SUCCESS: Fill Input
+[2025-12-18 19:19:09] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:19:09] INFO : SUCCESS: Fill Input
+[2025-12-18 19:19:09] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:22:42] INFO : BasePage Initialized
+[2025-12-18 19:22:42] INFO : BasePage Initialized
+[2025-12-18 19:22:42] INFO : BasePage Initialized
+[2025-12-18 19:22:42] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:22:43] INFO : SELECT : Log in 
+[2025-12-18 19:22:44] INFO : Selected Name: Log in
+[2025-12-18 19:22:44] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:22:44] INFO : SUCCESS: Fill Input
+[2025-12-18 19:22:44] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:22:44] INFO : SUCCESS: Fill Input
+[2025-12-18 19:22:44] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:24:00] INFO : BasePage Initialized
+[2025-12-18 19:24:00] INFO : BasePage Initialized
+[2025-12-18 19:24:00] INFO : BasePage Initialized
+[2025-12-18 19:24:00] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:24:01] INFO : SELECT : Log in 
+[2025-12-18 19:24:02] INFO : Selected Name: Log in
+[2025-12-18 19:24:02] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:24:02] INFO : SUCCESS: Fill Input
+[2025-12-18 19:24:02] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:24:02] INFO : SUCCESS: Fill Input
+[2025-12-18 19:24:02] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:32:40] INFO : BasePage Initialized
+[2025-12-18 19:32:40] INFO : BasePage Initialized
+[2025-12-18 19:32:40] INFO : BasePage Initialized
+[2025-12-18 19:32:40] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:32:41] INFO : SELECT : Log in 
+[2025-12-18 19:32:41] INFO : Selected Name: Log in
+[2025-12-18 19:32:41] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:32:42] INFO : SUCCESS: Fill Input
+[2025-12-18 19:32:42] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:32:42] INFO : SUCCESS: Fill Input
+[2025-12-18 19:32:42] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:41:50] INFO : BasePage Initialized
+[2025-12-18 19:41:50] INFO : BasePage Initialized
+[2025-12-18 19:41:50] INFO : BasePage Initialized
+[2025-12-18 19:41:50] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:41:51] INFO : SELECT : Log in 
+[2025-12-18 19:41:51] INFO : Selected Name: Log in
+[2025-12-18 19:41:51] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:41:52] INFO : SUCCESS: Fill Input
+[2025-12-18 19:41:52] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:41:52] INFO : SUCCESS: Fill Input
+[2025-12-18 19:41:52] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:41:57] INFO : BasePage Initialized
+[2025-12-18 19:41:57] INFO : BasePage Initialized
+[2025-12-18 19:41:57] INFO : BasePage Initialized
+[2025-12-18 19:41:57] INFO : Navigate to URL: /
+[2025-12-18 19:41:58] INFO : SELECT : Laptops 
+[2025-12-18 19:41:58] INFO : Selected Name: Laptops
+[2025-12-18 19:41:59] INFO : BasePage Initialized
+[2025-12-18 19:41:59] INFO : BasePage Initialized
+[2025-12-18 19:41:59] INFO : BasePage Initialized
+[2025-12-18 19:41:59] INFO : Navigate to URL: /
+[2025-12-18 19:42:00] INFO : SELECT : Phones 
+[2025-12-18 19:42:00] INFO : Selected Name: Phones
+[2025-12-18 19:56:49] INFO : BasePage Initialized
+[2025-12-18 19:56:49] INFO : BasePage Initialized
+[2025-12-18 19:56:49] INFO : BasePage Initialized
+[2025-12-18 19:56:49] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:56:49] INFO : SELECT : Log in 
+[2025-12-18 19:56:49] INFO : Selected Name: Log in
+[2025-12-18 19:56:49] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:56:50] INFO : SUCCESS: Fill Input
+[2025-12-18 19:56:50] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:56:50] INFO : SUCCESS: Fill Input
+[2025-12-18 19:56:50] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:58:28] INFO : BasePage Initialized
+[2025-12-18 19:58:28] INFO : BasePage Initialized
+[2025-12-18 19:58:28] INFO : BasePage Initialized
+[2025-12-18 19:58:28] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 19:58:29] INFO : SELECT : Log in 
+[2025-12-18 19:58:29] INFO : Selected Name: Log in
+[2025-12-18 19:58:29] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 19:58:29] INFO : SUCCESS: Fill Input
+[2025-12-18 19:58:29] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 19:58:29] INFO : SUCCESS: Fill Input
+[2025-12-18 19:58:29] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 19:58:33] INFO : BasePage Initialized
+[2025-12-18 19:58:33] INFO : BasePage Initialized
+[2025-12-18 19:58:33] INFO : BasePage Initialized
+[2025-12-18 19:58:33] INFO : Navigate to URL: /
+[2025-12-18 19:58:34] INFO : SELECT : Laptops 
+[2025-12-18 19:58:35] INFO : Selected Name: Laptops
+[2025-12-18 19:58:35] INFO : BasePage Initialized
+[2025-12-18 19:58:35] INFO : BasePage Initialized
+[2025-12-18 19:58:35] INFO : BasePage Initialized
+[2025-12-18 19:58:35] INFO : Navigate to URL: /
+[2025-12-18 19:58:36] INFO : SELECT : Phones 
+[2025-12-18 19:58:37] INFO : Selected Name: Phones
+[2025-12-18 19:58:37] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 19:58:37] INFO : Navigating to next page
+[2025-12-18 20:01:44] INFO : BasePage Initialized
+[2025-12-18 20:01:44] INFO : BasePage Initialized
+[2025-12-18 20:01:44] INFO : BasePage Initialized
+[2025-12-18 20:01:44] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 20:01:45] INFO : SELECT : Log in 
+[2025-12-18 20:01:45] INFO : Selected Name: Log in
+[2025-12-18 20:01:45] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 20:01:46] INFO : SUCCESS: Fill Input
+[2025-12-18 20:01:46] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 20:01:46] INFO : SUCCESS: Fill Input
+[2025-12-18 20:01:46] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 20:01:50] INFO : BasePage Initialized
+[2025-12-18 20:01:50] INFO : BasePage Initialized
+[2025-12-18 20:01:50] INFO : BasePage Initialized
+[2025-12-18 20:01:50] INFO : Navigate to URL: /
+[2025-12-18 20:01:51] INFO : SELECT : Laptops 
+[2025-12-18 20:01:51] INFO : Selected Name: Laptops
+[2025-12-18 20:01:52] INFO : BasePage Initialized
+[2025-12-18 20:01:52] INFO : BasePage Initialized
+[2025-12-18 20:01:52] INFO : BasePage Initialized
+[2025-12-18 20:01:52] INFO : Navigate to URL: /
+[2025-12-18 20:01:52] INFO : SELECT : Phones 
+[2025-12-18 20:01:53] INFO : Selected Name: Phones
+[2025-12-18 20:01:53] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 20:01:53] INFO : Navigating to next page
+[2025-12-18 20:07:21] INFO : BasePage Initialized
+[2025-12-18 20:07:21] INFO : BasePage Initialized
+[2025-12-18 20:07:21] INFO : BasePage Initialized
+[2025-12-18 20:07:21] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 20:07:22] INFO : SELECT : Log in 
+[2025-12-18 20:07:23] INFO : Selected Name: Log in
+[2025-12-18 20:07:23] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 20:07:23] INFO : SUCCESS: Fill Input
+[2025-12-18 20:07:23] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 20:07:23] INFO : SUCCESS: Fill Input
+[2025-12-18 20:07:23] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 20:07:27] INFO : BasePage Initialized
+[2025-12-18 20:07:27] INFO : BasePage Initialized
+[2025-12-18 20:07:27] INFO : BasePage Initialized
+[2025-12-18 20:07:27] INFO : Navigate to URL: /
+[2025-12-18 20:07:28] INFO : SELECT : Laptops 
+[2025-12-18 20:07:28] INFO : Selected Name: Laptops
+[2025-12-18 20:07:29] INFO : BasePage Initialized
+[2025-12-18 20:07:29] INFO : BasePage Initialized
+[2025-12-18 20:07:29] INFO : BasePage Initialized
+[2025-12-18 20:07:29] INFO : Navigate to URL: /
+[2025-12-18 20:07:30] INFO : SELECT : Phones 
+[2025-12-18 20:07:30] INFO : Selected Name: Phones
+[2025-12-18 20:07:30] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 20:07:31] INFO : Navigating to next page
+[2025-12-18 20:55:20] INFO : BasePage Initialized
+[2025-12-18 20:55:20] INFO : BasePage Initialized
+[2025-12-18 20:55:20] INFO : BasePage Initialized
+[2025-12-18 20:55:20] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 20:55:22] INFO : SELECT : Log in 
+[2025-12-18 20:55:22] INFO : Selected Name: Log in
+[2025-12-18 20:55:22] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 20:55:22] INFO : SUCCESS: Fill Input
+[2025-12-18 20:55:22] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 20:55:22] INFO : SUCCESS: Fill Input
+[2025-12-18 20:55:22] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 20:55:26] INFO : BasePage Initialized
+[2025-12-18 20:55:26] INFO : BasePage Initialized
+[2025-12-18 20:55:26] INFO : BasePage Initialized
+[2025-12-18 20:55:26] INFO : Navigate to URL: /
+[2025-12-18 20:55:27] INFO : SELECT : Laptops 
+[2025-12-18 20:55:27] INFO : Selected Name: Laptops
+[2025-12-18 20:55:28] INFO : BasePage Initialized
+[2025-12-18 20:55:28] INFO : BasePage Initialized
+[2025-12-18 20:55:28] INFO : BasePage Initialized
+[2025-12-18 20:55:28] INFO : Navigate to URL: /
+[2025-12-18 20:55:35] INFO : BasePage Initialized
+[2025-12-18 20:55:35] INFO : BasePage Initialized
+[2025-12-18 20:55:35] INFO : BasePage Initialized
+[2025-12-18 20:55:35] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 20:55:36] INFO : SELECT : Log in 
+[2025-12-18 20:55:36] INFO : Selected Name: Log in
+[2025-12-18 20:55:36] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 20:55:37] INFO : SUCCESS: Fill Input
+[2025-12-18 20:55:37] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 20:55:37] INFO : SUCCESS: Fill Input
+[2025-12-18 20:55:37] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 20:55:42] INFO : BasePage Initialized
+[2025-12-18 20:55:42] INFO : BasePage Initialized
+[2025-12-18 20:55:42] INFO : BasePage Initialized
+[2025-12-18 20:55:42] INFO : Navigate to URL: /
+[2025-12-18 20:55:43] INFO : SELECT : Laptops 
+[2025-12-18 20:55:43] INFO : Selected Name: Laptops
+[2025-12-18 20:55:44] INFO : BasePage Initialized
+[2025-12-18 20:55:44] INFO : BasePage Initialized
+[2025-12-18 20:55:44] INFO : BasePage Initialized
+[2025-12-18 20:55:44] INFO : Navigate to URL: /
+[2025-12-18 20:55:45] INFO : SELECT : Phones 
+[2025-12-18 20:55:45] INFO : Selected Name: Phones
+[2025-12-18 20:55:45] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 21:31:22] INFO : BasePage Initialized
+[2025-12-18 21:31:22] INFO : BasePage Initialized
+[2025-12-18 21:31:22] INFO : BasePage Initialized
+[2025-12-18 21:31:22] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 21:31:29] INFO : BasePage Initialized
+[2025-12-18 21:31:29] INFO : BasePage Initialized
+[2025-12-18 21:31:29] INFO : BasePage Initialized
+[2025-12-18 21:31:29] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 21:31:30] INFO : SELECT : Log in 
+[2025-12-18 21:31:30] INFO : Selected Name: Log in
+[2025-12-18 21:31:30] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 21:31:30] INFO : SUCCESS: Fill Input
+[2025-12-18 21:31:30] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 21:31:30] INFO : SUCCESS: Fill Input
+[2025-12-18 21:31:30] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 21:31:35] INFO : BasePage Initialized
+[2025-12-18 21:31:35] INFO : BasePage Initialized
+[2025-12-18 21:31:35] INFO : BasePage Initialized
+[2025-12-18 21:31:35] INFO : Navigate to URL: /
+[2025-12-18 21:31:35] INFO : SELECT : Laptops 
+[2025-12-18 21:31:36] INFO : Selected Name: Laptops
+[2025-12-18 21:31:36] INFO : BasePage Initialized
+[2025-12-18 21:31:36] INFO : BasePage Initialized
+[2025-12-18 21:31:36] INFO : BasePage Initialized
+[2025-12-18 21:31:36] INFO : Navigate to URL: /
+[2025-12-18 21:31:37] INFO : SELECT : Phones 
+[2025-12-18 21:31:38] INFO : Selected Name: Phones
+[2025-12-18 21:31:38] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 21:32:34] INFO : BasePage Initialized
+[2025-12-18 21:32:34] INFO : BasePage Initialized
+[2025-12-18 21:32:34] INFO : BasePage Initialized
+[2025-12-18 21:32:34] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 21:32:35] INFO : SELECT : Log in 
+[2025-12-18 21:32:35] INFO : Selected Name: Log in
+[2025-12-18 21:32:35] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 21:32:35] INFO : SUCCESS: Fill Input
+[2025-12-18 21:32:35] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 21:32:35] INFO : SUCCESS: Fill Input
+[2025-12-18 21:32:35] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 21:32:39] INFO : BasePage Initialized
+[2025-12-18 21:32:39] INFO : BasePage Initialized
+[2025-12-18 21:32:39] INFO : BasePage Initialized
+[2025-12-18 21:32:39] INFO : Navigate to URL: /
+[2025-12-18 21:32:40] INFO : SELECT : Laptops 
+[2025-12-18 21:32:40] INFO : Selected Name: Laptops
+[2025-12-18 21:32:41] INFO : BasePage Initialized
+[2025-12-18 21:32:41] INFO : BasePage Initialized
+[2025-12-18 21:32:41] INFO : BasePage Initialized
+[2025-12-18 21:32:41] INFO : Navigate to URL: /
+[2025-12-18 21:32:42] INFO : SELECT : Phones 
+[2025-12-18 21:32:42] INFO : Selected Name: Phones
+[2025-12-18 21:32:42] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 21:39:28] INFO : BasePage Initialized
+[2025-12-18 21:39:28] INFO : BasePage Initialized
+[2025-12-18 21:39:28] INFO : BasePage Initialized
+[2025-12-18 21:39:28] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 21:39:29] INFO : SELECT : Log in 
+[2025-12-18 21:39:29] INFO : Selected Name: Log in
+[2025-12-18 21:39:29] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 21:39:30] INFO : SUCCESS: Fill Input
+[2025-12-18 21:39:30] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 21:39:30] INFO : SUCCESS: Fill Input
+[2025-12-18 21:39:30] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 21:39:34] INFO : BasePage Initialized
+[2025-12-18 21:39:34] INFO : BasePage Initialized
+[2025-12-18 21:39:34] INFO : BasePage Initialized
+[2025-12-18 21:39:34] INFO : Navigate to URL: /
+[2025-12-18 21:39:35] INFO : SELECT : Laptops 
+[2025-12-18 21:39:35] INFO : Selected Name: Laptops
+[2025-12-18 21:39:36] INFO : BasePage Initialized
+[2025-12-18 21:39:36] INFO : BasePage Initialized
+[2025-12-18 21:39:36] INFO : BasePage Initialized
+[2025-12-18 21:39:36] INFO : Navigate to URL: /
+[2025-12-18 21:39:37] INFO : SELECT : Phones 
+[2025-12-18 21:39:37] INFO : Selected Name: Phones
+[2025-12-18 21:39:37] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 22:02:00] INFO : BasePage Initialized
+[2025-12-18 22:02:00] INFO : BasePage Initialized
+[2025-12-18 22:02:00] INFO : BasePage Initialized
+[2025-12-18 22:02:00] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 22:02:01] INFO : SELECT : Log in 
+[2025-12-18 22:02:01] INFO : Selected Name: Log in
+[2025-12-18 22:02:01] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 22:02:02] INFO : SUCCESS: Fill Input
+[2025-12-18 22:02:02] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 22:02:02] INFO : SUCCESS: Fill Input
+[2025-12-18 22:02:02] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 22:02:06] INFO : BasePage Initialized
+[2025-12-18 22:02:06] INFO : BasePage Initialized
+[2025-12-18 22:02:06] INFO : BasePage Initialized
+[2025-12-18 22:02:06] INFO : Navigate to URL: /
+[2025-12-18 22:02:07] INFO : SELECT : Laptops 
+[2025-12-18 22:02:07] INFO : Selected Name: Laptops
+[2025-12-18 22:02:08] INFO : BasePage Initialized
+[2025-12-18 22:02:08] INFO : BasePage Initialized
+[2025-12-18 22:02:08] INFO : BasePage Initialized
+[2025-12-18 22:02:08] INFO : Navigate to URL: /
+[2025-12-18 22:02:09] INFO : SELECT : Phones 
+[2025-12-18 22:02:09] INFO : Selected Name: Phones
+[2025-12-18 22:02:09] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 22:18:08] INFO : BasePage Initialized
+[2025-12-18 22:18:08] INFO : BasePage Initialized
+[2025-12-18 22:18:08] INFO : BasePage Initialized
+[2025-12-18 22:18:08] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-18 22:18:10] INFO : SELECT : Log in 
+[2025-12-18 22:18:10] INFO : Selected Name: Log in
+[2025-12-18 22:18:10] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-18 22:18:10] INFO : SUCCESS: Fill Input
+[2025-12-18 22:18:10] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-18 22:18:10] INFO : SUCCESS: Fill Input
+[2025-12-18 22:18:10] INFO : ACTION -> CLICKING: Click Element
+[2025-12-18 22:18:14] INFO : BasePage Initialized
+[2025-12-18 22:18:14] INFO : BasePage Initialized
+[2025-12-18 22:18:14] INFO : BasePage Initialized
+[2025-12-18 22:18:14] INFO : Navigate to URL: /
+[2025-12-18 22:18:16] INFO : SELECT : Laptops 
+[2025-12-18 22:18:16] INFO : Selected Name: Laptops
+[2025-12-18 22:18:17] INFO : BasePage Initialized
+[2025-12-18 22:18:17] INFO : BasePage Initialized
+[2025-12-18 22:18:17] INFO : BasePage Initialized
+[2025-12-18 22:18:17] INFO : Navigate to URL: /
+[2025-12-18 22:18:18] INFO : SELECT : Phones 
+[2025-12-18 22:18:18] INFO : Selected Name: Phones
+[2025-12-18 22:18:18] INFO : Waiting for items to load after category selection
+[2025-12-18 22:18:18] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-18 22:18:19] INFO : Item clicked: Iphone 6 32gb
+[2025-12-23 16:39:22] INFO : BasePage Initialized
+[2025-12-23 16:39:22] INFO : BasePage Initialized
+[2025-12-23 16:40:16] INFO : BasePage Initialized
+[2025-12-23 16:40:16] INFO : BasePage Initialized
+[2025-12-23 16:40:16] INFO : BasePage Initialized
+[2025-12-23 16:40:16] INFO : Navigate to URL: https://demoblaze.com/
+[2025-12-23 16:40:17] INFO : SELECT : Log in 
+[2025-12-23 16:40:17] INFO : Selected Name: Log in
+[2025-12-23 16:40:17] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2025-12-23 16:40:18] INFO : SUCCESS: Fill Input
+[2025-12-23 16:40:18] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2025-12-23 16:40:18] INFO : SUCCESS: Fill Input
+[2025-12-23 16:40:18] INFO : ACTION -> CLICKING: Click Element
+[2025-12-23 16:40:24] INFO : BasePage Initialized
+[2025-12-23 16:40:24] INFO : BasePage Initialized
+[2025-12-23 16:40:24] INFO : BasePage Initialized
+[2025-12-23 16:40:24] INFO : Navigate to URL: /
+[2025-12-23 16:40:24] INFO : SELECT : Laptops 
+[2025-12-23 16:40:25] INFO : Selected Name: Laptops
+[2025-12-23 16:40:26] INFO : BasePage Initialized
+[2025-12-23 16:40:26] INFO : BasePage Initialized
+[2025-12-23 16:40:26] INFO : BasePage Initialized
+[2025-12-23 16:40:26] INFO : Navigate to URL: /
+[2025-12-23 16:40:27] INFO : SELECT : Phones 
+[2025-12-23 16:40:27] INFO : Selected Name: Phones
+[2025-12-23 16:40:27] INFO : Waiting for items to load after category selection
+[2025-12-23 16:40:27] INFO : Searching for item across pages: Iphone 6 32gb
+[2025-12-23 16:40:28] INFO : Item clicked: Iphone 6 32gb

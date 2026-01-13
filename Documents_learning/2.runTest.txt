@@ -1,0 +1,13 @@
+//TO run test on terminal:
+//test file should always save as spec.js
+
+// to run all the test -> npx playwright test
+
+//to run the specific test script -> npx playwright test testname
+
+//by default test will execute in three browsers(chromium, webkit, firefox)
+//to run on specfic browser -> npx playwright test --project=chromium
+
+//to run with headed mode -> npx playwright test --project=chromium --headed
+
+//to run in debug mode -> npx playwright test --project=chromium --debug

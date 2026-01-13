@@ -1,0 +1,29 @@
+{
+  "name": "javascript_basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.first.js",
+  "scripts": {
+    "clean:results": "rimraf allure-results",
+    "test:sanity": "npm run clean:results && playwright test --grep @sanity",
+    "test:regression": "npm run clean:results && playwright test --grep @regression",
+    "report": "node helpers/generateAllureReport.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.3.0",
+    "@playwright/test": "^1.55.1",
+    "@types/node": "^24.6.2",
+    "allure-commandline": "^2.36.0",
+    "allure-cucumberjs": "^3.4.3",
+    "allure-playwright": "^3.4.3",
+    "playwright": "^1.57.0",
+    "rimraf": "^6.1.2"
+  },
+  "dependencies": {
+    "winston": "^3.19.0"
+  }
+}

@@ -1,0 +1,42 @@
+url : https://playwright.dev/docs/frames
+
+A page can have additional frames attached with the iframe HTML tag. 
+These frames can be accessed for interactions inside the frame.
+
+// Locate element inside frame
+const username = await page.frameLocator('.frame-class').getByLabel('User Name');
+await username.fill('John');
+
+Frame objects
+One can access frame objects using the page.frame() API:
+
+// Get frame using the frame's name attribute
+const frame = page.frame('frame-login'); //we cannot put locator into quotes. we can only put url or frame name.
+frame object approach was used more.
+
+
+// Get frame using frame's URL
+const frame = page.frame({ url: /.*domain.*/ });
+
+// Interact with the frame
+await frame.fill('#username-input', 'John');
+
+keypoint:
+//we can use page.framelocator or page.frame() to handle iFrames in Playwright
+    //page.frame() is used to get the frame object 
+    // and then we can use that frame object to interact with elements inside the iFrame
+    //mostly page.frame is used when we have to do multiple operations inside the iFrame
+    //page.frame() method takes name attribute or url Frame
+    //page.frames() cannot pick the locator.
+    //page.frame() returns the frame object
+    //it return the array of all frames inside the page
+
+---------------------------------------------------
+NESTED FRAMES:
+//handling nested frames inside frame 3: 
+            //for nested frames we need to use childframes() method.
+            // it will give the array of all nested frames inside the parent frame.
+            //here only one nested frame is there inside frame 3.
+            //so we used childFrames[0] to get the first nested frame.
+
+

@@ -1,0 +1,36 @@
+URL link : https://playwright.dev/docs/input
+
+DROPDOWN: 
+dropdown mainly functions with the select tag.
+Selects one or multiple options in the <select> element with locator.selectOption(). 
+You can specify option value, or label to select. Multiple options can be selected.
+
+// Single selection : visible text
+await page.locator(xpath).selectOption('blue');
+
+// Single selection : using label/visible text
+await page.locator(xpath).selectOption({ label: 'Blue' });
+
+// Single selection : using index
+await page.locator(xpath).selectOption({ index: 4});
+
+//another approach:
+await page.selectOption(xpath,'visible text');
+
+
+Assertions: 
+1. check number of options in dropdown.
+    capture all the options in single locator assert in using toHaveCount().
+
+2.Approach 2: get all the options in an array and check the length of the array.
+//$$ using $$ will return elements in an array.
+expect((await page.$$(dropDownOptions)).length).toBe(10);
+
+3.checking the text in the dropdown:
+//check presence of value/options in the drop down. - Approach 1: direct approach
+const content =await page.locator(dropDownSelectOption).textContent();
+     await expect(content.includes('India')).toBeTruthy();
+
+4.//option:checked css selector will give all the selected options in the drop down. 
+we can use option:checked when we want to get all the selected options from the drop down for Assertion.
+example script was written in 10.multiSelectDropDown.spec.js

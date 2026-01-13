@@ -1,0 +1,33 @@
+Locators in playwright
+
+1.property
+2.CSS
+3. Xpath
+
+------
+
+Single element Locator:
+click(): clicking the linking or button
+await page.locator('Here we need to pass the locators').click();
+other approach
+await page.click('Here we need to pass the locators'); //most prepareable.
+
+fill()/type(): Input text boxes
+await page.locator('Here we need to pass the locators').fill('value');
+other approach
+await page.fill('locator','value'); //most prepareable.
+await page.type('locator','value'); //most prepareable.
+------------------------------------
+
+multiple element Locator:
+const elements=await page.$$('locator') -> will return all the elements of the locator.
+if the locators are empty it will return [] it wont throw exceptions.
+--------------------------------------------------------------
+Built-in Locators
+page.getByRole() -- to locate the explicit and implicit accessibility attributes.
+page.getByText() -- to locate the text content of the element.
+page.getByLabel() -- to locate a form control by associated label's text.
+page.getByPlaceholder() -- to locate an input by placeholder.
+page.getByAllText() -- to locate an element,usually image, by its text alternative.
+page.getByTitle() -- to locate an element by its title attribute.
+page.getByTestId() -- to locate an element based on its data-testid attribute.  

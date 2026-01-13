@@ -1,0 +1,6 @@
+[2025-12-18 19:41:59] INFO : BasePage Initialized
+[2025-12-18 19:41:59] INFO : BasePage Initialized
+[2025-12-18 19:41:59] INFO : BasePage Initialized
+[2025-12-18 19:41:59] INFO : Navigate to URL: /
+[2025-12-18 19:42:00] INFO : SELECT : Phones 
+[2025-12-18 19:42:00] INFO : Selected Name: Phones

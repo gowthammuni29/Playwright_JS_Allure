@@ -1,0 +1,24 @@
+TEST ASSERTIONS
+
+url link :https://playwright.dev/docs/test-assertions
+
+1.Playwright includes test assertions in the form of expect function. 
+
+10 most used assertions partically:
+
+1. expect(page).toHaveURL(url) -- page has url
+2. expect(page).toHaveTitle(title) -- page has title
+3. expect(locator).toBeVisible() -- element is visible
+4. expect(Locator).toBeEnabled() -- Control is enabled
+    expect(Locator).toBeDisabled()  -- element is toBeDisabled
+5. expect(Locator).toBeChecked() -- Radiobutton/checkbox is toBeChecked
+6. expect(Locator).toHaveAttribute() -- element has attribute
+7. expect(Locator).toHaveText() -- element matches text
+8. expect(Locator).toContainText() -- element contains text
+9. expect(Locator).toHaveValue(value) -- Input has value
+10. expect(page).toHaveCount() -- list of elements has given length
+---------------------------------------------------------------------------
+
+SOFT ASSERTIONS:
+By default, failed assertion will terminate test execution. Playwright also supports soft assertions:
+failed soft assertions do not terminate test execution, but mark the test as failed.

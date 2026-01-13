@@ -1,0 +1,76 @@
+playwright-pom-framework/
+│
+├── playwright.config.js
+├── global-setup.js                 ✅ creates auth.json
+├── auth.json                       ✅ auto-generated
+│
+├── pages/
+│   ├── BasePage.js
+│   ├── LoginPage.js                ❌ no storageState
+│   ├── HomePage.js                 ✅ uses storageState
+│   └── CartPage.js                 ✅ uses storageState
+│
+├── helpers/
+│   └── logger.js
+│
+├── tests/
+│   ├── login/                      ❌ NO storageState
+│   │   └── login.spec.js
+│   │
+│   ├── home/                       ✅ storageState
+│   │   └── home.spec.js
+│   │
+│   ├── cart/                       ✅ storageState
+│   │   └── cart.spec.js
+│   │
+│   └── utils/
+│       └── testData.js
+│
+└── reports/
+
+steps to follow for storagesate setup:
+STEP 1️⃣ – Create global-setup.js (Login ONCE) - its a login once and store the state in auth.json
+with this we can avoid login and logout function in each test case which we use in beforeEach/beforeAll and afterEach/afterAll.
+once this setup done. we can simple write the test cases in the test page without login or logout.
+INTERVIEW-READY ANSWER:
+
+“With storageState, authentication is handled globally, 
+so beforeAll and afterAll are used only for data setup and cleanup. I never use them for login or logout.”
+
+I use Playwright projects to separate login tests from authenticated tests.
+Login tests run without storageState, while other modules reuse auth.json created in globalSetup.”
+
+beforeeach and aftereach we can use for like creating class objects.
+
+🏆 INTERVIEW-WORTHY TAKEAWAY
+
+You can confidently say:
+
+“I resolved Playwright ESM config issues by identifying an incorrect Node core module import. 
+In ESM, path must be imported as a namespace or default export. 
+Fixing that allowed Playwright to load the config and storageState correctly.”
+--------------------------------------------------------------------------------------------------------
+so that once logged in we can use all the test cases to run and close it at the end. its the best way to run the tests.
+STEP 1️⃣ – Create global-setup.js (Login ONCE) - its a login once and store the state in auth.json
+root → global-setup.js
+once setup  done This runs once before all tests.
+
+STEP 2️⃣ – Configure Playwright Projects
+This is the most important step.
+📁 playwright.config.js
+once setup done in playwright.config.js 
+🔑 What this does
+Module	Login	storageState
+Login	UI login	❌ NO
+Home	Skipped	✅ YES
+Cart	Skipped	✅ YES
+
+STEP 3️⃣ – Login Module (NO storageState) --> we dont need anything in login test page.
+
+STEP 4️⃣ – Home Page (WITH storageState)
+
+📁 tests/POM_homePageTest.spec.js
+we can directly write test in homepageTest without login/logout.
+
+we can use 
+

@@ -1,0 +1,51 @@
+textContent()
+Returns the raw text content of all child nodes, including hidden elements
+Does not trigger layout like innerText()
+Returns text exactly as it appears in the DOM, including spaces and line breaks
+Ignores CSS styling (like display: none)
+innerText()
+Returns the "rendered" text content
+Takes CSS into account (ignores hidden elements)
+Performs layout to determine what text would be visible to a user
+Normalizes whitespace (like a browser would)
+More human-readable output
+allInnerTexts()
+Returns an array of text content for each element in the locator
+Useful when dealing with multiple matching elements
+Each element's text is processed similar to innerText()
+Here's an example to illustrate the differences:
+
+html
+ Copy
+ Insert
+ Export
+
+<div id="test">
+    Hello
+    <span style="display: none">Hidden</span>
+    World
+</div>
+javascript
+ Copy
+ Insert
+ Export
+
+// Results would be:
+const textContent = await element.textContent();  // "Hello Hidden World"
+const innerText = await element.innerText();      // "Hello World"
+const allInnerTexts = await element.allInnerTexts(); // ["Hello World"]
+Key differences in practice:
+
+Use textContent() when you need the raw text content including hidden elements
+Use innerText() when you want what a user would actually see
+Use allInnerTexts() when working with multiple elements and need each one's text separately
+Performance-wise:
+
+textContent() is fastest as it doesn't trigger layout
+innerText() is slower as it performs layout calculations
+allInnerTexts() is similar to innerText() but returns an array
+Choose the method based on your specific needs:
+
+For testing visible text to users: innerText()
+For including hidden text: textContent()
+For processing multiple elements: allInnerTexts()

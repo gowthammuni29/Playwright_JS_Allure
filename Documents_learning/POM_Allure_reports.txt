@@ -1,0 +1,57 @@
+What Allure Gives You (Why teams use it)
+
+✔ Step-wise test execution
+✔ Pass / Fail per step
+✔ Screenshots on failure
+✔ Logs & attachments
+✔ History, trends, categories
+✔ Looks like manual execution report
+
+👉 Allure replaces custom step logging
+👉 test.step() becomes your main step definition
+
+playwright-pom-framework/
+│
+├── playwright.config.js
+├── global-setup.js
+│
+├── pages/
+│   ├── BasePage.js
+│   ├── LoginPage.js
+│   └── HomePage.js
+│
+├── tests/
+│   ├── login/
+│   ├── home/
+│   └── cart/
+│
+├── allure-results/      ← auto-generated
+└── allure-report/       ← generated HTML
+
+STEP 1 — INSTALL ALLURE FOR PLAYWRIGHT: npm install -D allure-playwright
+
+STEP 2 — UPDATE PLAYWRIGHT CONFIG (ESM):
+reporter: [
+    ['list'],
+    ['allure-playwright']
+  ],
+
+  STEP 3 — WRITE TESTS USING test.step() (THIS IS KEY)
+  STEP 4 — PAGE OBJECT (NO STEP LOGGING HERE)
+  STEP 5 — RUN TESTS - this will create allure-results/
+  STEP 6 — GENERATE ALLURE REPORT - Install Allure CLI (once) : npm install -g allure-commandline
+
+Generate report: allure serve allure-results OR
+  allure generate allure-results -o allure-report --clean
+allure open allure-report
+
+
+WHAT YOU WILL SEE IN ALLURE REPORT:
+Attachments
+
+Screenshot (on failure)
+
+Video (on failure)
+
+Trace (optional)
+

@@ -1,0 +1,6 @@
+[2025-12-18 19:41:57] INFO : BasePage Initialized
+[2025-12-18 19:41:57] INFO : BasePage Initialized
+[2025-12-18 19:41:57] INFO : BasePage Initialized
+[2025-12-18 19:41:57] INFO : Navigate to URL: /
+[2025-12-18 19:41:58] INFO : SELECT : Laptops 
+[2025-12-18 19:41:58] INFO : Selected Name: Laptops

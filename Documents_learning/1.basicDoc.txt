@@ -1,0 +1,48 @@
+playwright
+---------------------
+1.applications supported - web browser applications, mobile web apps, applications, API
+2.languages support - Javascript,typescript,java,python, .Net
+3.browser support - Chromium, webkit(safari), firefox(headed/headless)
+4.chromium browsers - chrome,edge,opera and more
+5. OS support- Windows, MacOS, Linux , Support CI Runs
+
+
+FEATURES: 
+free and open source
+multi-browser, multi languages, multi-OS support
+Easy to setup and configuration
+functional, API, accessibility testing using third party plugins.
+Built in reporters, custom reports, selenium will use third party plugin for reports.
+CI ,CD, Docker
+parallel testing
+built in Auto wait for synchronization issue
+Build in Assertions
+Multi tab and multi window support -Major important feature.
+frames, shadow dom,
+emulate mobile devices
+Fast compared to other framwork
+No flaky tests - sometime test will pass and sometime it wont pass due to stability issue. in playwright it wont happen.
+
+----------------------------------------------------------------------------------
+
+Installation:
+Node. js download and install 
+then commard prompt check version node --v or node --version
+VS code 
+Create project folder and open it in Vs code
+install playwright using terminal on VS code (npm init playwright@latest)
+
+package.json --> node project management file. here we can add all the dependencies.
+playwright.config.js --> configuration file for playwright.
+tests --> here we can create all the playwright tests.
+check current verison --> npm playwirght --v 
+
+---------------------------------
+Run the test :
+npx playwright test - will run all the test in tests folder. by default it will run in headless mode which mean we cant see.
+npx playwright test --project=chromium - will run all the test in tests folder in chromium browser.by default it will run in all browsers.
+npx playwright test --headed --> will run all the test in tests folder. we can see the browser.
+npx playwright show-report --> will show the html report.
+ run test--> npx playwright test 5.codegenTestGenerator.spec.js --project=chromium --headed
+
+ 

@@ -1,0 +1,16 @@
+url : https://playwright.dev/docs/dialogs
+alert(), confirm(), prompt() dialogs
+
+By default, dialogs are auto-dismissed by Playwright, so you don't have to handle them.
+
+howver we still can handle them for some validations aswell.
+
+However, you can register a dialog handler before the action that triggers
+ the dialog to either dialog.accept() or dialog.dismiss() it.
+
+ example code:
+
+ page.on('dialog', dialog => dialog.accept());
+await page.getByRole('button').click();
+
+

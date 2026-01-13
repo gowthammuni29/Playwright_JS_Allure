@@ -1,0 +1,38 @@
+URL link : https://playwright.dev/docs/input
+
+Input elements such as text inputs, checkboxes, radio buttons, select options,
+ mouse clicks, type characters, keys and shortcuts as well as upload files and focus elements.
+
+ Text input : Using locator.fill() is the easiest way to fill out the form fields. 
+ It focuses the element and triggers an input event with the entered text. 
+ It works for <input>, <textarea> and [contenteditable] elements.
+
+ ----------------------------------------------------------------------
+ CHECKBOX AND RADIOBUTTONS:
+
+ RADIO BUTTONS:
+ Using locator.check() is the easiest way to check and uncheck a checkbox or a radio button. 
+ This method can be used with input[type=checkbox], input[type=radio] and [role=checkbox] elements.
+check the box --> locator.check()
+Assertion --> expect().toBeChecked()
+Additional Assertion --> locator.isChecked().toBeTruthy. will passassertion if its checked.
+Additional Assertion --> locator.isChecked().toBeFalsy. will pass assertion if its not checked.
+
+CHECKBOXES:
+//CHECKBOXES WITH ASSERTIONS: 
+radio button and checkboxes we use .check() for selecting the button or checkbox.
+in checkboxes we can select multiple checkboxes.
+check the box --> locator.check()
+Assertion --> expect().toBeChecked()
+Additional Assertion --> locator.isChecked().toBeTruthy. will passassertion if its checked.
+Additional Assertion --> locator.isChecked().toBeFalsy. will pass assertion if its not checked.
+
+Selecting Multiple CheckBoxes:
+first we need to locate all the checkboxes in a small array. --. this is one step.
+or we can locate the checkbox in dom in a elements and using indiceofindeces with nth(i) we can do multi select.
+
+
+
+
+
+
