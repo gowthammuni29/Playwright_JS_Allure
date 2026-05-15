@@ -11,3 +11,5 @@
 //to run with headed mode -> npx playwright test --project=chromium --headed
 
 //to run in debug mode -> npx playwright test --project=chromium --debug
+
+npx playwright test "Cart page" --project=authenticated-tests --headed
