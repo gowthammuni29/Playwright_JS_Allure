@@ -5,8 +5,17 @@
   "main": "1.first.js",
   "scripts": {
     "clean:results": "rimraf allure-results",
-    "test:sanity": "npm run clean:results && playwright test --grep @sanity",
-    "test:regression": "npm run clean:results && playwright test --grep @regression",
+
+    "test:qa":                 "cross-env ENV=qa      npm run clean:results && playwright test",
+    "test:qa:sanity":          "cross-env ENV=qa      npm run clean:results && playwright test --grep @sanity",
+    "test:qa:regression":      "cross-env ENV=qa      npm run clean:results && playwright test --grep @regression",
+
+    "test:staging":            "cross-env ENV=staging npm run clean:results && playwright test",
+    "test:staging:sanity":     "cross-env ENV=staging npm run clean:results && playwright test --grep @sanity",
+    "test:staging:regression": "cross-env ENV=staging npm run clean:results && playwright test --grep @regression",
+
+    "test:prod":               "cross-env ENV=prod    npm run clean:results && playwright test --grep @sanity",
+
     "report": "node helpers/generateAllureReport.js"
   },
   "keywords": [],
@@ -15,15 +24,16 @@
   "type": "module",
   "devDependencies": {
     "@cucumber/cucumber": "^11.3.0",
-    "@playwright/test": "^1.55.1",
+    "@playwright/test": "^1.57.0",
     "@types/node": "^24.6.2",
     "allure-commandline": "^2.36.0",
     "allure-cucumberjs": "^3.4.3",
     "allure-playwright": "^3.4.3",
-    "playwright": "^1.57.0",
+    "cross-env": "^10.1.0",
     "rimraf": "^6.1.2"
   },
   "dependencies": {
+    "dotenv": "^17.4.2",
     "winston": "^3.19.0"
   }
 }

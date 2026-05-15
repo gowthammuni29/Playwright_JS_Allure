@@ -398,3 +398,149 @@
 [2025-12-23 16:40:27] INFO : Waiting for items to load after category selection
 [2025-12-23 16:40:27] INFO : Searching for item across pages: Iphone 6 32gb
 [2025-12-23 16:40:28] INFO : Item clicked: Iphone 6 32gb
+[2026-05-15 15:07:53] INFO : BasePage Initialized
+[2026-05-15 15:07:53] INFO : BasePage Initialized
+[2026-05-15 15:07:53] INFO : BasePage Initialized
+[2026-05-15 15:07:53] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:07:55] INFO : SELECT : Log in 
+[2026-05-15 15:07:55] INFO : Selected Name: Log in
+[2026-05-15 15:07:55] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:07:56] INFO : SUCCESS: Fill Input
+[2026-05-15 15:07:56] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:07:56] INFO : SUCCESS: Fill Input
+[2026-05-15 15:07:56] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:09:58] INFO : BasePage Initialized
+[2026-05-15 15:09:58] INFO : BasePage Initialized
+[2026-05-15 15:09:58] INFO : BasePage Initialized
+[2026-05-15 15:09:58] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:09:59] INFO : SELECT : Log in 
+[2026-05-15 15:09:59] INFO : Selected Name: Log in
+[2026-05-15 15:09:59] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:10:00] INFO : SUCCESS: Fill Input
+[2026-05-15 15:10:00] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:10:00] INFO : SUCCESS: Fill Input
+[2026-05-15 15:10:00] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:18:51] INFO : BasePage Initialized
+[2026-05-15 15:18:51] INFO : BasePage Initialized
+[2026-05-15 15:18:51] INFO : BasePage Initialized
+[2026-05-15 15:18:51] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:18:52] INFO : SELECT : Log in 
+[2026-05-15 15:18:53] INFO : Selected Name: Log in
+[2026-05-15 15:18:53] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:18:53] INFO : SUCCESS: Fill Input
+[2026-05-15 15:18:53] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:18:53] INFO : SUCCESS: Fill Input
+[2026-05-15 15:18:53] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:18:59] INFO : BasePage Initialized
+[2026-05-15 15:18:59] INFO : BasePage Initialized
+[2026-05-15 15:18:59] INFO : BasePage Initialized
+[2026-05-15 15:18:59] INFO : BasePage Initialized
+[2026-05-15 15:18:59] INFO : BasePage Initialized
+[2026-05-15 15:18:59] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:19:00] INFO : SELECT : Log in 
+[2026-05-15 15:19:00] INFO : Selected Name: Log in
+[2026-05-15 15:19:00] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:19:00] INFO : SUCCESS: Fill Input
+[2026-05-15 15:19:00] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:19:01] INFO : SUCCESS: Fill Input
+[2026-05-15 15:19:01] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:19:01] INFO : SELECT : Log out 
+[2026-05-15 15:19:03] INFO : Selected Name: Log out
+[2026-05-15 15:20:45] INFO : BasePage Initialized
+[2026-05-15 15:20:45] INFO : BasePage Initialized
+[2026-05-15 15:20:45] INFO : BasePage Initialized
+[2026-05-15 15:20:45] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:20:46] INFO : SELECT : Log in 
+[2026-05-15 15:20:47] INFO : Selected Name: Log in
+[2026-05-15 15:20:47] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:20:47] INFO : SUCCESS: Fill Input
+[2026-05-15 15:20:47] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:20:47] INFO : SUCCESS: Fill Input
+[2026-05-15 15:20:47] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:20:52] INFO : BasePage Initialized
+[2026-05-15 15:20:52] INFO : BasePage Initialized
+[2026-05-15 15:20:52] INFO : BasePage Initialized
+[2026-05-15 15:20:52] INFO : BasePage Initialized
+[2026-05-15 15:20:52] INFO : BasePage Initialized
+[2026-05-15 15:20:52] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:20:53] INFO : SELECT : Log in 
+[2026-05-15 15:20:53] INFO : Selected Name: Log in
+[2026-05-15 15:20:53] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:20:53] INFO : SUCCESS: Fill Input
+[2026-05-15 15:20:53] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:20:53] INFO : SUCCESS: Fill Input
+[2026-05-15 15:20:53] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:20:58] INFO : SELECT : Phones 
+[2026-05-15 15:20:58] INFO : Selected Name: Phones
+[2026-05-15 15:21:02] INFO : SELECT : undefined 
+[2026-05-15 15:21:02] INFO : Waiting for items to load after category selection
+[2026-05-15 15:21:02] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-05-15 15:21:02] INFO : SELECT : Log out 
+[2026-05-15 15:21:02] INFO : Item clicked: Iphone 6 32gb
+[2026-05-15 15:25:49] INFO : BasePage Initialized
+[2026-05-15 15:25:49] INFO : BasePage Initialized
+[2026-05-15 15:25:49] INFO : BasePage Initialized
+[2026-05-15 15:25:49] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:25:50] INFO : SELECT : Log in 
+[2026-05-15 15:25:51] INFO : Selected Name: Log in
+[2026-05-15 15:25:51] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:25:51] INFO : SUCCESS: Fill Input
+[2026-05-15 15:25:51] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:25:51] INFO : SUCCESS: Fill Input
+[2026-05-15 15:25:51] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:25:57] INFO : BasePage Initialized
+[2026-05-15 15:25:57] INFO : BasePage Initialized
+[2026-05-15 15:25:57] INFO : BasePage Initialized
+[2026-05-15 15:25:57] INFO : BasePage Initialized
+[2026-05-15 15:25:57] INFO : BasePage Initialized
+[2026-05-15 15:25:57] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:25:58] INFO : SELECT : Log in 
+[2026-05-15 15:25:59] INFO : Selected Name: Log in
+[2026-05-15 15:25:59] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:25:59] INFO : SUCCESS: Fill Input
+[2026-05-15 15:25:59] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:25:59] INFO : SUCCESS: Fill Input
+[2026-05-15 15:25:59] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:26:03] INFO : SELECT : Phones 
+[2026-05-15 15:26:03] INFO : Selected Name: Phones
+[2026-05-15 15:26:07] INFO : Waiting for items to load after category selection
+[2026-05-15 15:26:08] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-05-15 15:26:08] INFO : Item clicked: Iphone 6 32gb
+[2026-05-15 15:26:10] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:26:10] INFO : SELECT : Log out 
+[2026-05-15 15:26:11] INFO : Selected Name: Log out
+[2026-05-15 15:29:10] INFO : BasePage Initialized
+[2026-05-15 15:29:10] INFO : BasePage Initialized
+[2026-05-15 15:29:10] INFO : BasePage Initialized
+[2026-05-15 15:29:10] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:29:11] INFO : SELECT : Log in 
+[2026-05-15 15:29:11] INFO : Selected Name: Log in
+[2026-05-15 15:29:11] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:29:11] INFO : SUCCESS: Fill Input
+[2026-05-15 15:29:11] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:29:11] INFO : SUCCESS: Fill Input
+[2026-05-15 15:29:11] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:29:16] INFO : BasePage Initialized
+[2026-05-15 15:29:17] INFO : BasePage Initialized
+[2026-05-15 15:29:17] INFO : BasePage Initialized
+[2026-05-15 15:29:17] INFO : BasePage Initialized
+[2026-05-15 15:29:17] INFO : BasePage Initialized
+[2026-05-15 15:29:17] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:29:18] INFO : SELECT : Log in 
+[2026-05-15 15:29:18] INFO : Selected Name: Log in
+[2026-05-15 15:29:18] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:29:18] INFO : SUCCESS: Fill Input
+[2026-05-15 15:29:18] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:29:18] INFO : SUCCESS: Fill Input
+[2026-05-15 15:29:18] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:29:22] INFO : SELECT : Phones 
+[2026-05-15 15:29:23] INFO : Selected Name: Phones
+[2026-05-15 15:29:27] INFO : Waiting for items to load after category selection
+[2026-05-15 15:29:27] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-05-15 15:29:27] INFO : Item clicked: Iphone 6 32gb
+[2026-05-15 15:29:29] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:29:29] INFO : SELECT : Cart 
+[2026-05-15 15:29:29] INFO : Selected Name: Cart
+[2026-05-15 15:29:30] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:29:30] INFO : SELECT : Log out 
+[2026-05-15 15:29:58] INFO : Selected Name: Log out

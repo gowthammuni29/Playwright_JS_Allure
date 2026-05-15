@@ -1,1 +1,1 @@
-[{"uid":"5a98d6addb5db37d","name":"TC_HOMEPAGE_002 - select device","time":{"start":1766076496818,"stop":1766076499713,"duration":2895},"status":"passed","severity":"normal"},{"uid":"89b20ec7c7c41f62","name":"TC_HOMEPAGE_001 - select Categories tab","time":{"start":1766076494100,"stop":1766076496415,"duration":2315},"status":"passed","severity":"normal"}]
+[{"uid":"165d02e7433a6a18","name":"Cart page","time":{"start":1778839155697,"stop":1778839198071,"duration":42374},"status":"passed","severity":"normal"}]

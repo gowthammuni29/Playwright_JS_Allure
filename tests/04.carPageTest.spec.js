@@ -41,7 +41,6 @@ test.only('Cart page', async ({page}) =>{
     await basePage.wait(4);
     await homePage.selectCateogry('Phones');
     await basePage.wait(4);
-    await expect(homePage.selectCateogry()).toBeTruthy();
     await homePage.selectDevice('Iphone 6 32gb');
     await productDetailPage.expectOnDetailspage();
     await productDetailPage.expectDeviceName('Iphone 6 32gb');

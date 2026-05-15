@@ -13,3 +13,21 @@
 //to run in debug mode -> npx playwright test --project=chromium --debug
 
 npx playwright test "Cart page" --project=authenticated-tests --headed
+
+# QA — full suite
+npm run test:qa
+
+# QA — only @sanity tagged tests
+npm run test:qa:sanity
+
+# QA — only @regression tagged tests
+npm run test:qa:regression
+
+# Staging — full suite
+npm run test:staging
+
+# Staging — @sanity only
+npm run test:staging:sanity
+
+# Production — @sanity only (safest)
+npm run test:prod

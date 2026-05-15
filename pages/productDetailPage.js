@@ -41,7 +41,7 @@ export class ProductDetailPage extends BasePage{
     }
 
     async ProductAddedAlert(expectedMessage) {
-        await this.acceptAlertWithMessage(expectedMessage);
+        await this.handleAlert(expectedMessage);
     }
 
 
