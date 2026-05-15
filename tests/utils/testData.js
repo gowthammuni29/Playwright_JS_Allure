@@ -1,10 +1,13 @@
+import { envConfig } from '../../config/env.config.js';
+
 export const testData = {
   validUser: {
-    username: 'NethraG',
-    password: 'Nethra'
+    username: process.env.USERNAME,
+    password: process.env.PASSWORD,
   },
   invalidUser: {
-    username: 'Nethra',
-    password: 'Malavika'
-  }
+    username: 'invalid_user',
+    password: 'wrong_pass',
+  },
+  baseURL: envConfig.baseURL,
 };

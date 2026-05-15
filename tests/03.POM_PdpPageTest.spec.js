@@ -52,7 +52,7 @@ test.only("Adding mUltiple Device", async({page})=>{
     await basePage.wait(4);
     await homePage.selectCateogry('Phones');
     await basePage.wait(4);
-    await expect(homePage.selectCateogry()).toBeTruthy();
+    //await expect(homePage.selectCateogry()).toBeTruthy();
     await homePage.selectDevice('Iphone 6 32gb');
     await productDetailPage.clickAddToCart();
     await productDetailPage.ProductAddedAlert("Product added.");

@@ -342,6 +342,10 @@ export class BasePage {
    * @param {Locator} locator
    */
   //this wait is very important after selecting some category. its needs some wait to reload with new selected category.  
+  async wait(seconds) {
+    await this.page.waitForTimeout(seconds * 1000);
+  }
+
   async waitForItemsToLoad(itemsLocator) {
     logger.info('Waiting for items to load after category selection');
 

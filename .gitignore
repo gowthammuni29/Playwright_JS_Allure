@@ -6,3 +6,15 @@ node_modules/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
+
+# Environment secrets — never commit these
+.env.qa
+.env.staging
+.env.prod
+
+# Auth state — generated at runtime
+auth.json
+
+# Logs
+logs/
+*.log

@@ -1,0 +1,20 @@
+[2026-05-15 15:20:52] INFO : BasePage Initialized
+[2026-05-15 15:20:52] INFO : BasePage Initialized
+[2026-05-15 15:20:52] INFO : BasePage Initialized
+[2026-05-15 15:20:52] INFO : BasePage Initialized
+[2026-05-15 15:20:52] INFO : BasePage Initialized
+[2026-05-15 15:20:52] INFO : Navigate to URL: https://demoblaze.com/
+[2026-05-15 15:20:53] INFO : SELECT : Log in 
+[2026-05-15 15:20:53] INFO : Selected Name: Log in
+[2026-05-15 15:20:53] INFO : ACTION -> FILL : Fill Input --> NethraG
+[2026-05-15 15:20:53] INFO : SUCCESS: Fill Input
+[2026-05-15 15:20:53] INFO : ACTION -> FILL : Fill Input --> Nethra
+[2026-05-15 15:20:53] INFO : SUCCESS: Fill Input
+[2026-05-15 15:20:53] INFO : ACTION -> CLICKING: Click Element
+[2026-05-15 15:20:58] INFO : SELECT : Phones 
+[2026-05-15 15:20:58] INFO : Selected Name: Phones
+[2026-05-15 15:21:02] INFO : SELECT : undefined 
+[2026-05-15 15:21:02] INFO : Waiting for items to load after category selection
+[2026-05-15 15:21:02] INFO : Searching for item across pages: Iphone 6 32gb
+[2026-05-15 15:21:02] INFO : SELECT : Log out 
+[2026-05-15 15:21:02] INFO : Item clicked: Iphone 6 32gb
